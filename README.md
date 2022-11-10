@@ -35,6 +35,15 @@ $ cat .git/config
   merge = refs/heads/main
 ```
 
+## patches
+
+[scrollback](https://st.suckless.org/patches/scrollback/) patches
+
+```
+$ git apply patches/st-scrollback-20210507-4536f46.diff
+$ git apply patches/st-scrollback-mouse-20220127-2c5edf2.diff
+```
+
 
 ## License
 
