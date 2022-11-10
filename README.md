@@ -3,6 +3,8 @@
 
 My personal fork of [st](https://st.suckless.org/) (suckless terminal).
 
+`st` source is at [https://git.suckless.org/st/](https://git.suckless.org/st/)
+
 
 ```
 $ git branch -vv
