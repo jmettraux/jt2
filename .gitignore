@@ -5,3 +5,7 @@
 
 config.h
 
+*.o
+st
+jt
+
